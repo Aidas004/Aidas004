@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Aidas004&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidas004&layout=compact)]
 
 <!--
 **Aidas004/Aidas004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
