@@ -1,8 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[https://github-stats-extended.vercel.app/api/top-langs/?username=Aidas004&layout=compact&theme=dracula]
-
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Aidas004&layout=compact&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **Aidas004/Aidas004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
