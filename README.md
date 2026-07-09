@@ -1,5 +1,14 @@
-## 📊 GitHub Stats
+## 📈 Activity
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Aidas004&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aidas004&theme=dracula&hide_border=true&area=true" width="100%" />
+</p>
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Aidas004&layout=compact&theme=dracula&langs_count=10&size_weight=0.5&count_weight=0.5)](https://github.com/stats-organization/github-stats-extended)
+## 💻 Top Languages
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Aidas004&layout=compact&theme=dracula&langs_count=10&count_weight=0.5&size_weight=0.5"
+  />
+</p>
