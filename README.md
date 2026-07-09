@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[![Top Langs]([https://github-stats-extended.vercel.app/api/top-langs/?username=Aidas004&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+https://github-stats-extended.vercel.app/api/top-langs/?username=Aidas004&layout=compact&theme=dracula
 
 
 <!--
